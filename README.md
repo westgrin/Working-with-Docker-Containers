@@ -10,21 +10,21 @@ This project explores Docker containers, covering their creation with `docker ru
 ## Execution Steps
 1. **Run Containers**:
    - Ran Ubuntu container with `docker run -it`, added environment variable (`-e`), and ran in background (`-d` with `sleep infinity`).
-   - [Screenshot: `docker_image_pulled_local.png` - Shows `docker images`.]
+   -
    ![](./img/docker_image_pulled_local.2.png)
-   - [Screenshot: `docker_run_background_local.png` - Shows `docker ps`.]
+   
    ![](./img/docker_run_background_local.4.png)
 2. **Manage Lifecycle**:
    - Started, stopped, restarted, and removed containers using `start`, `stop`, `restart`, and `rm`.
-   - [Screenshot: `docker_lifecycle_management_local.png` - Shows `docker ps -a` after removal.]
+   
    ![](./img/docker_lifecycle_management_local.6.png)
 3. **Side Hustle Task**:
    - Started Ubuntu container, ran `uname -a`, stopped, restarted, and removed it.
-   - [Screenshot: `container_stopped_local.png` - Shows "Exited".]
+   
    ![](./img/container_stopped_local.7.png)
-   - [Screenshot: `container_restarted_local.png` - Shows "Up".]
+   
    ![](./img/container_restarted_local.8.png)
-   - [Screenshot: `container_removed_local.png` - Shows no container.]
+   -
    ![](./img/container_removed_local.9.png)
 
 ## Learning Summary
