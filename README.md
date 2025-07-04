@@ -46,5 +46,5 @@ This project deepened my understanding of Docker containers as lightweight, port
   - `container_removed_local.png`
 - **Script Link**: [GitHub Repository](https://github.com/westgrin/Shell_AWS_Mini_Project)
 
-## Conclusion
+## Conclusion 
 This project successfully explored Docker container creation, customization, and lifecycle management locally, addressing the lack of container ID output with appropriate run options, with a practical side hustle task, documented for future reference, enhancing my containerization skills.
